@@ -1,1 +1,1 @@
-Hello All! This is Campus repository.
+Hello All! This is Campus repository. This repository is used to learn programming in C++.
