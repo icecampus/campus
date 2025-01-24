@@ -7,6 +7,6 @@ add_subdirectory(src/programs/part_10.pointers)
 add_subdirectory(src/programs/part_13.swap)
 add_subdirectory(src/programs/part_14.exercises)
 add_subdirectory(src/programs/part_15.enum)
-
+add_subdirectory(src/programs/part_16.bitset)
 
 
